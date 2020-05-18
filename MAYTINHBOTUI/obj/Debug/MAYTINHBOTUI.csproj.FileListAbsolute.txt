@@ -1,0 +1,9 @@
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\bin\Debug\MAYTINHBOTUI.exe.config
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\bin\Debug\MAYTINHBOTUI.exe
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\bin\Debug\MAYTINHBOTUI.pdb
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.Form1.resources
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.Properties.Resources.resources
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.csproj.GenerateResource.cache
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.exe
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.pdb
+C:\Users\nploc\source\repos\MAYTINHBOTUI\MAYTINHBOTUI\obj\Debug\MAYTINHBOTUI.csprojAssemblyReference.cache
